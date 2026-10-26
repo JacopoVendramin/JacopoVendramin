@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/scope.svg" alt="A dark green-phosphor oscilloscope: the beam pulls a sine wave out of noise, curls it into a wireframe globe that spins to lock onto Vicenza, then writes the name JACOPO in one continuous stroke." width="100%">
+  <img src="assets/crossing.svg" alt="A Japanese railway crossing at sunset drawn in small shaded cells: the red lamps blink, the striped barrier drops and a commuter train rolls past the setting sun under a towering cloud, while sakura petals drift by. A hanko seal reads ヤコポ, Jacopo in katakana." width="100%">
 </p>
 
 ```console
